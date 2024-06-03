@@ -1,7 +1,7 @@
 
 # Walker Encrypted Boolean System (WEBS)
 
-###### The Walker Encrypted Boolean System is a system focused on providing high quality boolean encryption. It is made to work with C# (Particularly Unity 3D) and uses a custom system to ensure high quality protection against the most common worries of encrypting bools. This was made for the WI Pariah Cybersecurity System and XRUIOS, Coming Soon!
+###### The Walker Encrypted Boolean System is a system focused on providing high quality boolean encryption. It is made to work with C# (Particularly Unity 3D) and uses a custom system to ensure high quality protection against the most common worries of encrypting bools. This was made for the WI Pariah Cybersecurity System (Thus the script name) and XRUIOS, Coming Soon!
 
 
 
